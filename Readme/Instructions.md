@@ -1,6 +1,6 @@
 # Getting and injecting binaries
 
-1. Download the latest binary (*.dll*) and injector ([*ACDONTOP.exe*]()) from the [*Binaries*]() folder in the repository.
+1. Download the latest binary (*.dll*) and injector ([*ACDONTOP.exe*](/Binaries/ACDontop.exe)) from the [*Binaries*](/Binaries/) folder in the repository.
 2. Run the injector, set your target process to *TribesAscend.exe* and inject the dll.
 
 (**WARNING**: Having certain injectors, like *Extreme Injector*, running while playing a VAC secured game can get you **VAC banned** even if you are not injecting to the process).
